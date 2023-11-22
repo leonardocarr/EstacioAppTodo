@@ -81,8 +81,4 @@ const styles = StyleSheet.create({
         color: '#FFFFFF', // Cor do texto do botão ajustada para garantir legibilidade
     },
 });
-
-
-
-
-
+export { Welcome };
